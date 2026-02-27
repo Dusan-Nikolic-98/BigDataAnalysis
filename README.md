@@ -12,4 +12,5 @@ The dataset contains information about Steam games and their characteristics, in
 - Genres
 - Achievements
 - Additional game-related attributes
+
 The data provides both quantitative and categorical features, enabling comprehensive statistical and exploratory analysis.
